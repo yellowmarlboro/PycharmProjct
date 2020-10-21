@@ -1,5 +1,0 @@
-num = eval(input("请输入一个四位数"))
-print(num%10)
-print(num//10%10)
-print(num//100%10)
-print(num//1000)
